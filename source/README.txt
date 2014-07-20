@@ -1,0 +1,1 @@
+Copy all textures from ..\Game to this folder to make it run
